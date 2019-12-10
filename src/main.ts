@@ -72,4 +72,4 @@ const eventContentsBySlackMarkdown = () => {
  • ${contents.member}`
 }
 
-setTimeout(main, 5000)
+setTimeout(main, 4000)
